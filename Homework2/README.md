@@ -1,6 +1,12 @@
+## Question 3
+![plot](https://github.com/Ulq1517/CMSI488-2021/blob/main/Homework2/Q3.jpg?raw=true)
+
+## Question 4
+![plot](https://github.com/Ulq1517/CMSI488-2021/blob/main/Homework2/Q4.jpg?raw=true)
 
 ## Question 5
 ![plot](https://github.com/Ulq1517/CMSI488-2021/blob/main/Homework2/Q5.jpg?raw=true)
+
 ## Question 6
 ![plot](https://github.com/Ulq1517/CMSI488-2021/blob/main/Homework2/Q6.jpg?raw=true)
 
