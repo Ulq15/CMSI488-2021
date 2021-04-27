@@ -1,5 +1,5 @@
 ## Link to GitHub Repo with JS files
-[plot]("https://github.com/Ulq1517/CMSI488-2021/blob/main/Homework 4/")
+`https://github.com/Ulq1517/CMSI488-2021/blob/main/Homework 4/`
 ## Question 1
 ```js
 
